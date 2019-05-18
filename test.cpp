@@ -1,4 +1,4 @@
-void testfunction()
+﻿void testfunction()
 {
-	printf("('�E�ցE`)");
+	printf("('・ω・`)");
 }
